@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Google is not matched]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26058" started-at="2019-06-25T16:50:55Z" finished-at="2019-06-25T16:51:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26058" started-at="2019-06-25T16:50:55Z" finished-at="2019-06-25T16:51:21Z">
+      <class name="com.newtours.selenium.homepage.TC001">
+        <test-method status="PASS" signature="loadfiles()[pri:0, instance:com.newtours.selenium.homepage.TC001@cb644e]" name="loadfiles" is-config="true" duration-ms="309" started-at="2019-06-25T22:20:55Z" finished-at="2019-06-25T22:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadfiles -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.newtours.selenium.homepage.TC001@cb644e]" name="TC001" duration-ms="26042" started-at="2019-06-25T22:20:55Z" finished-at="2019-06-25T22:21:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Google is not matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+      </class> <!-- com.newtours.selenium.homepage.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
